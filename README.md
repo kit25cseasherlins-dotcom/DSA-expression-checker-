@@ -102,6 +102,6 @@ Sherlin S
 Reg No: 711525BCS157
 Department: CSE_A
 
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project is developed as part of a Data Structures mini project to demonstrate real-world application of stacks.
